@@ -3,3 +3,5 @@ Exercício de Avaliação Individual de APDC 2019/2020
 
 Nr 0000 Nome: Henrique João Lopes Domingos
 hj@fct.unl.pt
+
+.. etc inclua informação adicional que entenda ser relevante sobre o seu exercício
